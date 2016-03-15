@@ -2,3 +2,4 @@ git学习后的第二次试验
 测试中文能不能用git diff显示
 测试成功，notepad编辑器中的中文能在git中正常显示
 用add再次添加后，就不能用diff看到修改部分了吗？
+用add 不用commit试一试能不能查看
